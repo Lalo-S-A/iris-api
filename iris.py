@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # ===============================================================
 # Author: Rodolfo Ferro
 # Email: ferro@cimat.mx
@@ -10,8 +12,6 @@
 # contents is granted according to the license provided and
 # its conditions.
 # ===============================================================
-
-# -*- coding: utf-8 -*-
 
 from sklearn.datasets import load_iris
 from sklearn import tree
